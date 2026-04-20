@@ -6,6 +6,10 @@ import com.pao.laboratory07.exercise1.exceptions.OrderIsAlreadyFinalException;
 
 import java.util.Scanner;
 
+enum OrderCommand {
+    next, cancel, undo, QUIT
+}
+
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
