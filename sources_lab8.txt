@@ -1,0 +1,7 @@
+C:\Users\Miruna\Desktop\facultate\paoj\paoj-2026\src\com\pao\laboratory08\exercise1\Adresa.java
+C:\Users\Miruna\Desktop\facultate\paoj\paoj-2026\src\com\pao\laboratory08\exercise1\Checker.java
+C:\Users\Miruna\Desktop\facultate\paoj\paoj-2026\src\com\pao\laboratory08\exercise1\Main.java
+C:\Users\Miruna\Desktop\facultate\paoj\paoj-2026\src\com\pao\laboratory08\exercise1\Student.java
+C:\Users\Miruna\Desktop\facultate\paoj\paoj-2026\src\com\pao\laboratory08\exercise2\Main.java
+C:\Users\Miruna\Desktop\facultate\paoj\paoj-2026\src\com\pao\test\DiffGenerator.java
+C:\Users\Miruna\Desktop\facultate\paoj\paoj-2026\src\com\pao\test\IOTest.java
