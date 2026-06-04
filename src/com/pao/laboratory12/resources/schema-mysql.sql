@@ -1,10 +1,3 @@
--- ============================================================
---  schema-mysql.sql  —  Laboratory 12 / Proiect Etapa II
---  Compatibil cu: MySQL 8.x, MariaDB 10.x
---  Rulare: mysql -u root -p paoj_lab12 < schema-mysql.sql
--- ============================================================
-
--- Ordinea DROP conteaza: intai tabelele cu FK, apoi cele referite
 DROP TABLE IF EXISTS loan;
 DROP TABLE IF EXISTS book;
 DROP TABLE IF EXISTS reader;
