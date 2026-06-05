@@ -1,6 +1,6 @@
-package com.pao.proiect.bank.model;
+package com.pao.project.Aplicatie_bancara.model;
 
-public class ContCurent extends Cont {
+public class ContCurent extends ContOperabil {
     private double limitaDescoperire;
 
     public ContCurent(String iban, double sold, String idClient, double limitaDescoperire) {

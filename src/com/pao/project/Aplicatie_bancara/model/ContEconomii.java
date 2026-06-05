@@ -1,6 +1,6 @@
-package com.pao.proiect.bank.model;
+package com.pao.project.Aplicatie_bancara.model;
 
-public class ContEconomii extends Cont {
+public class ContEconomii extends ContOperabil {
     private double rataDobanda;
 
     public ContEconomii(String iban, double sold, String idClient, double rataDobanda) {

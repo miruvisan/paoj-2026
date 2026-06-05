@@ -1,4 +1,4 @@
-package com.pao.proiect.bank.model;
+package com.pao.project.Aplicatie_bancara.model;
 
 import java.util.*;
 

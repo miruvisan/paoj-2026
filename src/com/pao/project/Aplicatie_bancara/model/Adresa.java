@@ -1,4 +1,6 @@
-package com.pao.proiect.bank.model;
+package com.pao.project.Aplicatie_bancara.model;
+
+import java.util.Objects;
 
 public class Adresa {
     private String oras;
@@ -23,5 +25,18 @@ public class Adresa {
     @Override
     public String toString() {
         return oras + ", " + strada + " nr. " + numar;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Adresa adresa = (Adresa) o;
+        return numar == adresa.numar && Objects.equals(oras, adresa.oras) && Objects.equals(strada, adresa.strada);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(oras, strada, numar);
     }
 }
